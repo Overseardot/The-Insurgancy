@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://overseardot.github.io/The-Insurgancy/sitemap.xml
